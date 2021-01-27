@@ -1,0 +1,1 @@
+An example how to use Javascript objects, arrays and modules.
